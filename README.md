@@ -3,7 +3,7 @@
   <a href="https://discord.gg/tjX8fVa7b3"><img src="https://img.shields.io/discord/1264480934212927508?color=blue&label=Discord&logo=HolaClient&logoColor=blue" alt="discord" /></a>
   <a href="https://zoniex.me"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://zoniex.me"></a>
   <a  href="https://github.com/Zoniex-Inc/Zoniex-Beta"><img src="https://img.shields.io/github/stars/Zoniex-Inc/Zoniex-Beta?label=Stars%20%E2%AD%90" height="20"/></a>
-  <img src="https://komarev.com/ghpvc/?username=CR072&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=PatentGuyy&color=blue">
 </p>
 
 ---
