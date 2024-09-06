@@ -1,18 +1,12 @@
-![Zoniex Inc](https://github.com/user-attachments/assets/0800171b-7120-487d-a485-7b964460f632)
-<p align="center">
-  <a href="https://discord.gg/tjX8fVa7b3"><img src="https://img.shields.io/discord/1264480934212927508?color=blue&label=Discord&logo=HolaClient&logoColor=blue" alt="discord" /></a>
-  <a href="https://zoniex.me"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://zoniex.me"></a>
-  <a  href="https://github.com/Zoniex-Inc/Zoniex-Beta"><img src="https://img.shields.io/github/stars/Zoniex-Inc/Zoniex-Beta?label=Stars%20%E2%AD%90" height="20"/></a>
-  <img src="https://komarev.com/ghpvc/?username=PatentGuyy&color=blue">
-</p>
+## Hi there 👋
 
----
+<!--
 
-<h1 align="center">Zoniex</h1>
+**Here are some ideas to get you started:**
 
-Zoniex is a development company offering reliable hosting services and a feature-rich Discord bot. We provide premium, paid services tailored to your needs, from web development to automation solutions. At Zoniex, we focus on delivering quality and innovation.
-
----
-
-<br>
-<p align="center">Copyright © 2023 - 2024 PatentGuy</p>
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
